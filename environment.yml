@@ -1,7 +1,0 @@
-name: experiment
-channels:
-    - conda-forge
-dependencies:
-    - numpy
-    - python
-    - streamlit
